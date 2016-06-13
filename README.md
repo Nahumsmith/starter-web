@@ -1,6 +1,6 @@
 # Starter Web Repository
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
 
 ## Introduction
 
@@ -15,4 +15,6 @@ Sample website with plenty of files for demo
 This is a simple web project, deployment can be on any web server or even a local system.
 
 ## How To Contribute
+
+Contribute some stuff if you think you are the man.
 
