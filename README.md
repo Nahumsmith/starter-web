@@ -10,7 +10,9 @@ This is an example of how to show different parts of the git repository and vari
 
 Sample website with plenty of files for demo
 
-## Deploymemt
+## Deployment
+
+This is a simple web project, deployment can be on any web server or even a local system.
 
 ## How To Contribute
 
